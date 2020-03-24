@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tExilify", "tExilify\tExilify.csproj", "{0878DAA9-8534-42EC-920A-55FDB455A7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tExilifyLib", "tExilifyLib\tExilifyLib.csproj", "{95A1350C-F6C5-49FE-9385-B7E8FE941550}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tExilify", "tExilify", "{01C2CA92-D69D-4849-A9FD-189A593CBE1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tExiled", "tExiled", "{A786645B-5219-4C85-91E8-4D1B11210830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tExiled", "tExiled\tExiled.csproj", "{3C65EEE5-7521-4F5D-8C80-3BEC88FD70BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PackagedPlugins", "PackagedPlugins", "{AEF0068D-2F39-472F-9705-E2C74D96171A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{58CB72D5-51AF-4A8D-804D-5002A4D38D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0878DAA9-8534-42EC-920A-55FDB455A7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0878DAA9-8534-42EC-920A-55FDB455A7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0878DAA9-8534-42EC-920A-55FDB455A7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0878DAA9-8534-42EC-920A-55FDB455A7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A1350C-F6C5-49FE-9385-B7E8FE941550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A1350C-F6C5-49FE-9385-B7E8FE941550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A1350C-F6C5-49FE-9385-B7E8FE941550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A1350C-F6C5-49FE-9385-B7E8FE941550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C65EEE5-7521-4F5D-8C80-3BEC88FD70BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C65EEE5-7521-4F5D-8C80-3BEC88FD70BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C65EEE5-7521-4F5D-8C80-3BEC88FD70BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C65EEE5-7521-4F5D-8C80-3BEC88FD70BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CB72D5-51AF-4A8D-804D-5002A4D38D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CB72D5-51AF-4A8D-804D-5002A4D38D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CB72D5-51AF-4A8D-804D-5002A4D38D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CB72D5-51AF-4A8D-804D-5002A4D38D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0878DAA9-8534-42EC-920A-55FDB455A7C7} = {01C2CA92-D69D-4849-A9FD-189A593CBE1B}
+		{95A1350C-F6C5-49FE-9385-B7E8FE941550} = {01C2CA92-D69D-4849-A9FD-189A593CBE1B}
+		{3C65EEE5-7521-4F5D-8C80-3BEC88FD70BC} = {A786645B-5219-4C85-91E8-4D1B11210830}
+		{58CB72D5-51AF-4A8D-804D-5002A4D38D49} = {AEF0068D-2F39-472F-9705-E2C74D96171A}
+	EndGlobalSection
+EndGlobal
