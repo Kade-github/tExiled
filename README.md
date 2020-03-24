@@ -7,3 +7,6 @@ In no way is tExiled here to replace tShock, but we are here to provide a API In
 
 ## In Development
 tExiled is currently not **release ready**, and will not be for a little while. It's main core features of plugin loading and injecting into tModLoader is there, but there isn't much of an API Interface. That's the only thing we are working on, thanks.
+
+## Getting Started
+Please view our [Getting Started](GettingStarted.md) page for more information on how to start with tExiled.
